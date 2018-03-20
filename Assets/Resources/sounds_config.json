@@ -1,0 +1,33 @@
+{
+	"sounds":
+	[
+		{
+			"eventType": "EnemyDie",
+			"soundName": "asteroid_crash"
+		},
+		{
+			"eventType": "ShotEvent",
+			"soundName": "laser_sound"
+		},
+		{
+			"eventType": "GameOverEvent",
+			"soundName": "player_crash"
+		},
+		{
+			"eventType": "PlayerHit",
+			"soundName": "player_hit"
+		},
+		{
+			"eventType": "LifePowerUpEvent",
+			"soundName": "life_bonus"
+		},
+		{
+			"eventType": "ScorePowerUpEvent",
+			"soundName": "score_bonus"
+		},
+		{
+			"eventType": "WeaponPowerUpEvent",
+			"soundName": "weapon_bonus"
+		}
+	]	
+}
